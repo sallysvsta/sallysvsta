@@ -1,7 +1,5 @@
-<!-- 🌸✨ Pink Pastel Aesthetic GitHub Profile by Sally 💖 -->
 <div align="center">
 
-<!-- 🌈 HEADER BANNER -->
 <img src="https://i.pinimg.com/originals/bc/9e/51/bc9e5118a9f5b7c2c02dcb25cf949fad.gif" width="100%" alt="pink banner"/>
 
 <h1 align="center">✨ Hello, I'm <span style="color:#ff66b3;">Sally Savista Anindya</span>! 💕</h1>
@@ -77,7 +75,7 @@ Sometimes I get lost in debugging, sometimes in playlists — but either way, I�
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/8c/61/92/8c6192e72d5e1c4a7b3a5f91cf896ad0.gif" width="200"/><br>
-  🌸 "do literally whatever makes u happy." 🌸
+  🌸 **"do literally whatever makes u happy."** 🌸
 </p>
 
 ---
