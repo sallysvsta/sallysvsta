@@ -75,7 +75,7 @@ Sometimes I get lost in debugging, sometimes in playlists — but either way, I�
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/8c/61/92/8c6192e72d5e1c4a7b3a5f91cf896ad0.gif" width="200"/><br>
-  🌸 **"do literally whatever makes u happy."** 🌸
+  🌸"do literally whatever makes u happy."🌸
 </p>
 
 ---
