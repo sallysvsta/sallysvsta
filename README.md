@@ -1,17 +1,17 @@
-<!-- 🌸✨ Pink Pastel Aesthetic GitHub Profile by Seli 💖 -->
+<!-- 🌸✨ Pink Pastel Aesthetic GitHub Profile by Sally 💖 -->
 <div align="center">
 
 <!-- 🌈 HEADER BANNER -->
-<img src="https://i.pinimg.com/originals/d1/b4/6a/d1b46a5e9b2e5f2b56a9366fbcf92c63.gif" width="100%" alt="banner"/>
+<img src="https://i.pinimg.com/originals/bc/9e/51/bc9e5118a9f5b7c2c02dcb25cf949fad.gif" width="100%" alt="pink banner"/>
 
-<h1 align="center">✨ Hello, I'm <span style="color:#ff66b3;">Selii</span>! 💕</h1>
+<h1 align="center">✨ Hello, I'm <span style="color:#ff66b3;">Sally Savista Anindya</span>! 💕</h1>
 <h3 align="center" style="color:#ffb6c1;">Welcome to my GitHub World 🌸</h3>
 
-<img src="https://media.giphy.com/media/1AgViXhq0UQwUgFWfT/giphy.gif" width="160"/>
+<img src="https://i.pinimg.com/originals/94/bd/a5/94bda50a8b8bbd429e5e4f72a0e93a55.gif" width="160"/>
 
 <p align="center">
-  🌷 Business Information System Student at State Polytechnic of Malang 🌷<br>
-  💻 Human | ☁️ Dreamer | 
+    🌸 Business Information System Student at State Polytechnic of Malang. Just a human who loves pink and chill vibes 🌷<br>
+  💻 Dreamer | ☁️ Music Lover | 🍓 Debugging Survivor
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 
 ## 💖 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/ab/40/46/ab40460a8a80cc2eae5441d1f775544b.gif" width="200"/>
 </p>
 
 Hey there! I'm **Sally Savista Anindya**, a girl who loves exploring new things every day! ✨  
@@ -35,6 +35,22 @@ Sometimes I get lost in debugging, sometimes in playlists — but either way, I�
 - ☕ Chocolate + music combo  
 - 💻 Late-night debugging (with snacks 🍪)   
 - 🌷 Everything pink and cozy  
+- 🎧 Listening to my Spotify playlist non-stop  
+
+---
+
+## 💕 My Spotify
+<p align="center">
+  <a href="https://open.spotify.com/user/y0urlly" target="_blank">
+    <img src="https://img.shields.io/badge/🎵%20Now%20Playing%20on%20Spotify-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/y0urlly">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+  </a>
+</p>
 
 ---
 
@@ -60,7 +76,7 @@ Sometimes I get lost in debugging, sometimes in playlists — but either way, I�
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/><br>
+  <img src="https://i.pinimg.com/originals/8c/61/92/8c6192e72d5e1c4a7b3a5f91cf896ad0.gif" width="200"/><br>
   🌸 "do literally whatever makes u happy." 🌸
 </p>
 
@@ -68,7 +84,7 @@ Sometimes I get lost in debugging, sometimes in playlists — but either way, I�
 
 <div align="center">
   
-💗 **Made with love by Seli** 💗  
+💗 **Made with love by Sally** 💗  
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=100&section=footer&text=Thanks%20for%20visiting!%20🌷&fontColor=fff&fontSize=20&fontAlignY=55"/>
 
