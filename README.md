@@ -1,89 +1,78 @@
-<div align="center">
+<h1 align="center">Hi, I'm Sally Savista Anindya 👋</h1>
 
-<img src="https://i.pinimg.com/originals/bc/9e/51/bc9e5118a9f5b7c2c02dcb25cf949fad.gif" width="100%" alt="pink banner"/>
-
-<h1 align="center">✨ Hello, I'm <span style="color:#ff66b3;">Sally Savista Anindya</span>! 💕</h1>
-<h3 align="center" style="color:#ffb6c1;">Welcome to my GitHub World 🌸</h3>
-
-<img src="https://i.pinimg.com/originals/94/bd/a5/94bda50a8b8bbd429e5e4f72a0e93a55.gif" width="160"/>
+<h3 align="center">Business Information Systems Student | Aspiring QA Engineer</h3>
 
 <p align="center">
-    🌸 Business Information System Student at State Polytechnic of Malang. Just a human who loves pink and chill vibes 🌷<br>
-  💻 Dreamer | ☁️ Music Lover | 🍓 Debugging Survivor
-</p>
-
-</div>
-
----
-
-## 💖 About Me
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ab/40/46/ab40460a8a80cc2eae5441d1f775544b.gif" width="200"/>
-</p>
-
-Hey there! I'm **Sally Savista Anindya**, a girl who loves exploring new things every day! ✨  
-I enjoy listening to music while coding, spending too much time fixing jobsheets that **magically error again**, and decorating everything with pink colors. 🎀  
-Sometimes I get lost in debugging, sometimes in playlists — but either way, I’m having fun learning! 💻🎧🌷
-
-💌 **“keep learning, stay kind, and make it cute!”**
-
----
-
-## 🌸 My Favorites
-- ☕ Chocolate + music combo  
-- 💻 Late-night debugging (with snacks 🍪)   
-- 🌷 Everything pink and cozy  
-- 🎧 Listening to my Spotify playlist non-stop  
-
----
-
-## 💕 My Spotify
-<p align="center">
-  <a href="https://open.spotify.com/user/y0urlly" target="_blank">
-    <img src="https://img.shields.io/badge/🎵%20Now%20Playing%20on%20Spotify-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/y0urlly">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
+  <a href="https://sallysvsta.github.io/portfolio/">Portfolio</a> •
+  <a href="mailto:sallyysavista@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
 ---
 
-## 🧰 Tech & Tools I Use
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-F7CAC9?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-FF99CC?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-FFB7DD?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-FFC0CB?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+## About Me
+
+I'm a fifth-semester Business Information Systems student at State Polytechnic of Malang, Indonesia.
+
+I'm interested in Quality Assurance, software testing, and information systems. Through academic projects and practical assignments, I've gained experience in system development, database management, and software testing.
+
+I'm always eager to learn new technologies, improve my technical skills, and gain practical experience through collaborative projects.
+
+## Technical Skills
+
+**Programming Languages**
+- HTML, CSS, JavaScript
+- PHP, Java, Dart
+
+**Frameworks & Tools**
+- Laravel
+- Flutter
+- Bootstrap
+- Git & GitHub
+- Visual Studio Code
+- Figma
+
+**Database**
+- MySQL
+- PostgreSQL
+
+**Areas of Interest**
+- Quality Assurance
+- Software Testing
+- Information Systems
+- Database Management
+
+## Featured Projects
+
+### 1. E-Kompen
+A mobile-based information system developed to digitize and simplify the student compensation process at the Information Technology Department of State Polytechnic of Malang.
+
+**Technologies:** Flutter, Dart, Laravel, Database
+
+### 2. Laboratory of Applied Informatics (Lab AI)
+An academic project focused on developing a laboratory information website. My contributions included designing the user interface in Figma, developing the Home and Footer sections, and preparing project documentation.
+
+**Tools:** Figma, Frontend Development
+
+### 3. PT Rosarca Beauty
+A website project developed as an educational platform to provide information about Occupational Health and Safety (OHS/K3) practices in the cosmetics industry, including workplace risks, safety procedures, and the use of personal protective equipment.
+
+**Technologies:** HTML, CSS, JavaScript
+
+## Organization Experience
+
+- **Secretary of the Organizing Committee** — HMTI National Seminar 2025
+- **Event Coordinator** — Information Technology Department Sports Week 2025
+- **Publication and Documentation Staff** — Youth Organization (Karang Taruna)
+
+## Connect With Me
+
+- **Portfolio:** https://sallysvsta.github.io/portfolio/
+- **Email:** sallyysavista@gmail.com
+- **Instagram:** https://www.instagram.com/sallysvsta/
 
 ---
 
-## 🧸 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/sallysvsta" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:sallyysavista@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sally-savista-anindya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F4A7B9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <i>Always learning, growing, and building new experiences.</i>
 </p>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8c/61/92/8c6192e72d5e1c4a7b3a5f91cf896ad0.gif" width="200"/><br>
-  🌸"do literally whatever makes u happy."🌸
-</p>
-
----
-
-<div align="center">
-  
-💗 **Made with love by Sally** 💗  
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=100&section=footer&text=Thanks%20for%20visiting!%20🌷&fontColor=fff&fontSize=20&fontAlignY=55"/>
-
-</div>
