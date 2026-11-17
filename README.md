@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://sallysvsta.github.io/portfolio/">Portfolio</a> •
   <a href="mailto:sallyysavista@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sally-savista-anindya/">LinkedIn</a>
 </p>
 
 ---
